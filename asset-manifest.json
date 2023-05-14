@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://sourav3908.github.io/csb-kpg8x3/static/css/main.36bdb4ae.css",
+    "main.js": "https://sourav3908.github.io/csb-kpg8x3/static/js/main.26d2399e.js",
+    "index.html": "https://sourav3908.github.io/csb-kpg8x3/index.html",
+    "main.36bdb4ae.css.map": "https://sourav3908.github.io/csb-kpg8x3/static/css/main.36bdb4ae.css.map",
+    "main.26d2399e.js.map": "https://sourav3908.github.io/csb-kpg8x3/static/js/main.26d2399e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36bdb4ae.css",
+    "static/js/main.26d2399e.js"
+  ]
+}
